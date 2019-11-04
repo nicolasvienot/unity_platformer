@@ -3,5 +3,5 @@ Let's create a little platformer on Unity for android from scratch to learn thin
 
 Samples | Samples  
 :-------------------------:|:-------------------------:
-![](resources/platformer1.png)  |  ![](resources/platformer2.png)
-![](resources/platformer3.png)  |  ![](resources/platformer4.png)
+![](Resources/platformer1.png)  |  ![](Resources/platformer2.png)
+![](Resources/platformer3.png)  |  ![](Resources/platformer4.png)
