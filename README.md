@@ -1,5 +1,5 @@
 # unity_platformer
-Let's create a little platformer on Unity for android from scratch to learn things.
+Let's create a little android platformer on Unity from scratch to learn things.
 
 Samples | Samples  
 :-------------------------:|:-------------------------:
